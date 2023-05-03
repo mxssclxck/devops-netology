@@ -32,4 +32,15 @@
 в GitHub — https://github.com/YOUR_ACCOUNT/devops-netology/releases;
 в GitLab — https://gitlab.com/YOUR_ACCOUNT/devops-netology/-/tags;
 
+Легковестный тег у меня v0.1, а аннотированный v0.1.1
+
+![alt text](img/4.png)
+
+Как выглядят теги в GitLab
+
+![alt text](img/5.png)
+
+И Github
+
+![alt text](img/6.png)
 
