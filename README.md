@@ -65,3 +65,7 @@
 ![alt text](img/10.png)
 
 ## Задание 4. Упрощаем себе жизнь
+
+Изменил файл README.md выполняя задание 4 в IDE PyCharm
+
+![alt text](img/11.png)
