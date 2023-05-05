@@ -46,5 +46,22 @@
 
 ## Задание 3. Ветки
 
+При просмотре лого найден коммит d148fdc825732ade2f355c76fff1b3464748bc4f prepare to delete and move
+
+И выполнена команда git checkout <hash_commit>
+
+![alt text](img/7.png)
+
+Сделана новая ветка fix и отправлена в репозиторий в GitHub
+
+![alt text](img/8.png)
+
+Как выглядит ветвление в GitHub
+
+![alt text](img/9.png)
+
+Вывод git log 
+
+![alt text](img/10.png)
 
 ## Задание 4. Упрощаем себе жизнь
