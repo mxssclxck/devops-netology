@@ -6,3 +6,5 @@
 Файлы .tfstate
 Логи сбоев
 и т.д 
+
+Создал новую ветку fix вернувшись к коммиту "d148fdc825732ade2f355c76fff1b3464748bc4f prepare to delete and move"
